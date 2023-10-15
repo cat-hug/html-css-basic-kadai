@@ -1,0 +1,41 @@
+@charset 'utf-8';
+
+body {
+  text-align: center;
+  font-size: 20px;
+  text-align: center;
+  font-size: 20px;
+  font-family: "Arial","Meiryo",sans-serif
+}
+
+h1 {
+  letter-spacing: 1.2em;
+  font-size: 2rem;
+  border-bottom: solid 3px rgb(115,115,114) ;
+  text-shadow: 4px 4px 4px rgb(189, 158, 158) ;
+  font-family: 'Darumadrop One', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Monofett', monospace;
+font-family: 'Noto Sans JP', sans-serif;
+}
+
+
+.skyblue {
+  color: skyblue;
+}
+
+.pink {
+  color: rgb(255, 192,203);
+}
+
+.name, .bloodtype, .food  {
+  color: pink;
+}
+
+.birthday, .hoby, .reason {
+  color: skyblue;
+}
+
+#basic p {
+font-weight: bold;
+}
